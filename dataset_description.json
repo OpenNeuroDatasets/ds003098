@@ -1,0 +1,9 @@
+{
+  "Name": "ABCD protocol for BCBP",
+  "BIDSVersion": "1.4.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Anders Lillevik Thorsen"
+  ]
+}
